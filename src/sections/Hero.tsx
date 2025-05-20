@@ -61,7 +61,7 @@ const Hero: React.FC = () => {
           <div className="w-full lg:w-1/2">
             <div className="bg-gray-50 p-2 rounded-lg shadow-lg transform -rotate-1 hover:rotate-0 transition-transform duration-300">
               <img
-                src="https://images.pexels.com/photos/9822732/pexels-photo-9822732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="src/ShopifyToWordpress.png"
                 alt="Shopify to WordPress Migration"
                 className="rounded-md w-full h-auto"
               />
